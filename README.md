@@ -31,3 +31,6 @@
 ## Nginx
 
 ## Linux
+
+## 方法论
+  - [怎样读一本书V5.0 ?](http://liujinkai.com/2017/02/08/how-to-read-a-book/)
