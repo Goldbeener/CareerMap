@@ -2,6 +2,8 @@
 
 ## JS基础
 ### ES6
+### Array 
+  - [x] [Javascript Array.push is 945x faster than Array.concat](https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki)
 
 ## CSS基础
 
