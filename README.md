@@ -22,6 +22,7 @@
   - [x] [What is the Execution Context & Stack in JavaScript?](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript)
   - [x] [The JavaScript runtime environment](http://dolszewski.com/javascript/javascript-runtime-environment/)
   - [x] [认识 V8 引擎](https://zhuanlan.zhihu.com/p/27628685)
+  - [x] [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
   
 ## JSBridge
 
