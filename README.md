@@ -26,6 +26,7 @@ Vue三要素
 
 ## 浏览器
 ### 关于浏览器的运行机制
+  - [x] [从浏览器多进程到JS单线程](https://juejin.im/post/5a6547d0f265da3e283a1df7)
   - [x] [How JavaScript works in browser and node?](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
   - [x] [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
   - [x] [The Javascript Runtime Environment](https://medium.com/@olinations/the-javascript-runtime-environment-d58fa2e60dd0)
