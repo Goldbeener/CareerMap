@@ -42,6 +42,10 @@ Vue三要素
   - [x] [深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
 ### 可视化页面
   - [x] [菲利普·罗伯特event loop 可视化页面](http://latentflip.com/loupe/)
+  
+## 埋点
+  - [x] [前端曝光埋点解决方案](https://github.com/amandakelake/blog/issues/71)
+  
 ## JSBridge
 
 ## 网络
